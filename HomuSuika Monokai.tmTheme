@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>HomuSuika Monokai</string>
+	<key>settings</key>
+	<array>
+		<!-- Global settings -->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<!-- background -->
+				<key>background</key>
+				<string>#212121</string>
+				<!-- caret -->
+				<key>caret</key>
+				<string>#F8BBD0</string>
+				<!-- foreground -->
+				<key>foreground</key>
+				<string>#E0E0E0</string>
+				<!-- lineHighlight -->
+				<key>lineHighlight</key>
+				<string>#000000</string>
+				<!-- selection -->
+				<key>selection</key>
+				<string>#424242</string>
+				<!-- selectionBorder -->
+				<key>selectionBorder</key>
+				<string>#616161</string>
+				<!-- findHighlight -->
+				<key>findHighlight</key>
+				<string>#FFFF8D</string>
+				<!-- findHighlightForeground -->
+				<key>findHighlightForeground</key>
+				<string>#000000</string>
+				<!-- activeGuide -->
+				<key>activeGuide</key>
+				<string>#006064</string>
+				<!-- stackGuide -->
+				<key>stackGuide</key>
+				<string>#424242</string>
+
+				<!-- bracketsForeground -->
+				<key>bracketsForeground</key>
+				<string>#F8F8F2A5</string>
+				<!-- bracketsOptions -->
+				<key>bracketsOptions</key>
+				<string>underline</string>
+				<!-- bracketContentsForeground -->
+				<key>bracketContentsForeground</key>
+				<string>#F8F8F2A5</string>
+				<!-- bracketContentsOptions -->
+				<key>bracketContentsOptions</key>
+				<string>underline</string>
+
+				<!-- tagsForeground -->
+				<key>tagsForeground</key>
+				<string>#F8F8F2A5</string>
+				<!-- tagsOptions -->
+				<key>tagsOptions</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<!-- Comment -->
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A1887F</string>
+			</dict>
+		</dict>
+		<!-- String -->
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFF59D</string>
+			</dict>
+		</dict>
+		<!-- Constant -->
+		<dict>
+			<key>name</key>
+			<string>Constant Numeric</string>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B388FF</string>
+			</dict>
+		</dict>
+		<!-- Variable Function -->
+		<dict>
+			<key>name</key>
+			<string>Variable Function</string>
+			<key>scope</key>
+			<string>variable.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#81C784</string>
+			</dict>
+		</dict>
+		<!-- Variable Parameter -->
+		<dict>
+			<key>name</key>
+			<string>Variable Parameter</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCC80</string>
+			</dict>
+		</dict>
+		<!-- Keyword -->
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E91E63</string>
+			</dict>
+		</dict>
+		<!-- Storage Type -->
+		<dict>
+			<key>name</key>
+			<string>Storage Type</string>
+			<key>scope</key>
+			<string>storage.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B3E5FC</string>
+			</dict>
+		</dict>
+		<!-- Storage Modifier -->
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>storage.modifier</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F48FB1</string>
+			</dict>
+		</dict>
+		<!-- Entity Name Function -->
+		<dict>
+			<key>name</key>
+			<string>Entity Name Function</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#64B5F6</string>
+			</dict>
+		</dict>
+		<!-- Entity Name Tag -->
+		<dict>
+			<key>name</key>
+			<string>Entity Name Tag</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E91E63</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON String</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CFCFC2</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>diff.header</string>
+			<key>scope</key>
+			<string>meta.diff, meta.diff.header</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#75715E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.deleted</string>
+			<key>scope</key>
+			<string>markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.inserted</string>
+			<key>scope</key>
+			<string>markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6DB74</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6DB74</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#75715E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#75715E</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>scope</key>
+			<string>constant.numeric.line-number.find-in-files - match</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9E9E9E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>entity.name.filename.find-in-files</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFF59D</string>
+			</dict>
+		</dict>
+
+	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+</dict>
+</plist>
