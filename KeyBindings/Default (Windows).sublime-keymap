@@ -1,0 +1,89 @@
+// Sublime Text
+[
+	{ "keys": ["ctrl+shift+n"], "command": "none" },
+	{ "keys": ["ctrl+shift+w"], "command": "none" },
+	{ "keys": ["ctrl+o"], "command": "none" },
+	{ "keys": ["ctrl+shift+t"], "command": "none" },
+	{ "keys": ["alt+o"], "command": "none" },
+	{ "keys": ["ctrl+n"], "command": "none" },
+	{ "keys": ["ctrl+f4"], "command": "none" },
+	{ "keys": ["ctrl+w"], "command": "none" },
+
+	{ "keys": ["ctrl+k", "ctrl+b"], "command": "none" },
+	{ "keys": ["shift+f11"], "command": "none" },
+
+	{ "keys": ["ctrl+y"], "command": "none" },
+
+	{ "keys": ["shift+delete"], "command": "none" },
+	{ "keys": ["ctrl+insert"], "command": "none" },
+	{ "keys": ["shift+insert"], "command": "none" },
+	{ "keys": ["ctrl+k,v"], "command": "paste_from_history" },
+
+	{ "keys": ["insert"], "command": "none" },
+
+	{ "keys": ["alt+."], "command": "none" },
+
+	{ "keys": ["ctrl+q"], "command": "none" },
+
+	{ "keys": ["ctrl+shift+q"], "command": "none" },
+
+	{ "keys": ["f12"], "command": "toggle_side_bar" },
+	{ "keys": ["f5"], "command": "goto_definition" },
+
+
+	{ "keys": ["alt+shift+-"], "command": "none" },
+	{ "keys": ["alt+="], "command": "jump_forward" },
+
+	{ "keys": ["ctrl+i"], "command": "none" },
+	{ "keys": ["ctrl+shift+i"], "command": "none" },
+
+	{ "keys": ["f1"], "command": "prev_result" },
+	{ "keys": ["f2"], "command": "next_result" },
+	{ "keys": ["shift+f2"], "command": "none" },
+	{ "keys": ["ctrl+f2"], "command": "none" },
+	{ "keys": ["ctrl+shift+f2"], "command": "none" },
+	{ "keys": ["alt+f2"], "command": "none" },
+
+	{ "keys": ["f3"], "command": "find_prev" },
+	{ "keys": ["f4"], "command": "find_next" },
+	{ "keys": ["shift+f3"], "command": "none" },
+	{ "keys": ["ctrl+f3"], "command": "none" },
+	{ "keys": ["ctrl+shift+f3"], "command": "none" },
+	{ "keys": ["alt+f3"], "command": "none" },
+	{ "keys": ["shift+f4"], "command": "none" },
+	{ "keys": ["alt+f4"], "command": "find_all_under" },
+
+	{ "keys": ["f6"], "command": "none" },
+	{ "keys": ["ctrl+f6"], "command": "none" },
+	{ "keys": ["ctrl+shift+f6"], "command": "none" },
+
+	{ "keys": ["shift+backspace"], "command": "none" },
+	{ "keys": ["ctrl+shift+backspace"], "command": "none" },
+	{ "keys": ["ctrl+shift+delete"], "command": "none" },
+
+	{ "keys": ["ctrl+b"], "command": "none" },
+	{ "keys": ["ctrl+shift+b"], "command": "none" },
+	{ "keys": ["ctrl+break"], "command": "none" },
+
+	{ "keys": ["f7"], "command": "none" },
+	{ "keys": ["ctrl+b"], "command": "none" },
+	{ "keys": ["ctrl+shift+b"], "command": "none" },
+	{ "keys": ["ctrl+break"], "command": "none" },
+
+	{ "keys": ["ctrl+t"], "command": "none" },
+
+	{ "keys": ["ctrl+shift+["], "command": "none" },
+	{ "keys": ["ctrl+shift+]"], "command": "none" },
+
+	{ "keys": ["f9"], "command": "none" },
+	{ "keys": ["ctrl+f9"], "command": "none" },
+	{ "keys": ["f8"], "command": "sort_lines", "args": {"case_sensitive": false} },
+	{ "keys": ["ctrl+f8"], "command": "sort_lines", "args": {"case_sensitive": true} },
+
+	{ "keys": ["ctrl+k", "ctrl+v"], "command": "none" },
+	{ "keys": ["alt+v"], "command": "paste_from_history" },
+	// GitGutter Key Bindings - User
+	{
+
+	}
+]
