@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_frequency": 4,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Colorsublime",
+		"GitGutter",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"Sync Settings",
+		"SyncedSideBar",
+		"Theme - Flatland"
+	]
+}

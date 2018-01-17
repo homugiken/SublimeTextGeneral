@@ -1,0 +1,26 @@
+{
+  // A File Icon Preferences – User
+  // ================================================================
+
+  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // ! PLEASE RESTART SUBLIME TEXT FOR THESE CHANGES TO TAKE EFFECT !
+  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  // The opacity level of the default icon state.
+  "opacity": 1.0,
+
+  // The opacity level of the hovered icon state.
+  "opacity_on_hover": 0.25,
+
+  // The opacity level of the selected icon state.
+  "opacity_on_select": 1.0,
+
+  // This is the default size of Sublime Text icons. However you can
+  // change it to better fit your custom theme.
+  "size": 9,
+
+  // Every theme adds its own sizes of the sidebar row padding.
+  // E.g. `Default.sublime-theme` provides [8, 3]. You can change it
+  // to better fit your icon size.
+  "row_padding": [0, 2],
+}

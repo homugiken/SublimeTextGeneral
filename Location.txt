@@ -1,0 +1,8 @@
+### Sublime Text 3
+C:\Users\icpc\AppData\Roaming\Sublime Text 3
+
+### Settings
+C:\Users\icpc\AppData\Roaming\Sublime Text 3\Packages\User
+
+### Colorsublime - Themes
+C:\Users\icpc\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes
