@@ -1,0 +1,23 @@
+### A File Icon
+
+### Alignment
+
+### All Autocomplete
+
+### BracketHighlighter
+
+### Colorsublime
+
+### GitGutter
+
+### Package Control
+
+### PackageResourceViewer
+
+### SideBarEnhancements
+
+### Sync Settings
+
+### SyncedSideBar
+
+### Theme - Flatland
